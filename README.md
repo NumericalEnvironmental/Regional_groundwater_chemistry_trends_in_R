@@ -12,7 +12,7 @@ The script requires data to be read in in one of two forms. The first consists o
 
 Separately, a text file needs to be present that tells the script which county data sets to include in the analysis. An example, for the full set from all 59 California counties, is included with the script.
 
-I’ve used this script to look in to the distributions of various major ion associations and trends in groundwater in California’s San Joaquin Valley, specifically with respect to nitrate. This application is described in a bit more detail on my blog (link is pending).
+I’ve used this script to look in to the distributions of various major ion associations and trends in groundwater in California’s San Joaquin Valley, specifically with respect to nitrate. This application is described in a bit more detail on my blog (https://numericalenvironmental.wordpress.com/2017/11/03/perusing-a-statewide-groundwater-quality-data-set-with-r-principal-component-analysis-and-spatial-correlation/).
 
 I'd appreciate hearing back from you if you find the code useful. Questions or comments are welcome at walt.mcnab@gmail.com.
 
